@@ -1,0 +1,497 @@
+[
+  {
+    "content": "Nhân Viên Tư Vấn Bán Hàng Ô Tô Honda",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[1]/h1/span"
+  },
+  {
+    "content": "Công ty Cổ Phần Tập Đoàn Thái Bình Chi Nhánh Ô Tô Giải Phóng",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[1]/a/span/span"
+  },
+  {
+    "content": ",\n                    ,",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[2]/span/span"
+  },
+  {
+    "content": "Km9, QL 1A, Hoàng Liệt",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[2]/span/span/span[1]"
+  },
+  {
+    "content": ", Quận Hoàng Mai",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[2]/span/span/span[2]"
+  },
+  {
+    "content": "Hà Nội",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[2]/span/span/span[3]"
+  },
+  {
+    "content": "Việt Nam",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[2]/span/span/span[4]"
+  },
+  {
+    "content": "Lương:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[3]"
+  },
+  {
+    "content": "Thương lượng",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[3]/span/span[1]"
+  },
+  {
+    "content": "MONTH",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[1]/li[3]/span/span[2]"
+  },
+  {
+    "content": "Nộp đơn",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[1]/div[1]/a"
+  },
+  {
+    "content": "Nhân Viên Tư Vấn Bán Hàng Ô Tô Honda",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[1]/div[2]/span"
+  },
+  {
+    "content": "Công ty Cổ Phần Tập Đoàn Thái Bình Chi Nhánh Ô Tô Giải Phóng",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[1]/p/span/span"
+  },
+  {
+    "content": "Nhận email việc làm tương tự",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[1]/div[3]/a"
+  },
+  {
+    "content": "Mô tả chi tiết công việc",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/h2[1]"
+  },
+  {
+    "content": "- Chủ động tích cực khai thác khách hàng mới, tìm kiếm và phát triển khách hàng mục tiêu.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[2]/p[1]"
+  },
+  {
+    "content": "- Trực tiếp tư vấn, giới thiệu, bán các sản phẩm ô tô Honda",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[2]/p[2]"
+  },
+  {
+    "content": "- Đàm phán, ký kết hợp đồng với khách hàng, giao xe theo quy trình của Đại lý; hỗ trợ khách hàng các thủ tục pháp lý (nộp thuế, đăng ký...) khi được yêu cầu.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[2]/p[3]"
+  },
+  {
+    "content": "- Chăm sóc khách hàng và xây dựng hệ thống khách hàng trung thành",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[2]/p[4]"
+  },
+  {
+    "content": "- Tham gia các hoạt động marketing, quảng bá hình ảnh Đại lý và các sản phẩm dịch vụ của Đại lý đối với khách hàng.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[2]/p[5]"
+  },
+  {
+    "content": "- Tham gia các khóa đào tạo nội bộ về sản phẩm, quy trình của Đại lý và Honda Việt Nam",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[2]/p[6]"
+  },
+  {
+    "content": "- Hoàn thành kế hoạch được giao, chịu trách nhiệm trước Giám đốc bán hàng vềdoanh số, hiệu quả công việc....",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[2]/p[7]"
+  },
+  {
+    "content": "Kinh nghiệm/Kỹ năng chi tiết",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/h2[2]"
+  },
+  {
+    "content": "- Nam/nữ trên 22,ngoại hình ưa nhìn. Ưu tiên ứng viên nữ.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[3]/p[1]"
+  },
+  {
+    "content": "- Tốt nghiệp Trung cấp,Cao Đẳng, Đại học ngành kinh tế, QTKD,cơ khí ô tô và các chuyên ngành liên quan",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[3]/p[2]"
+  },
+  {
+    "content": "- Đạo đức tốt, phong cách tự tin, lịch thiệp, năng động, sáng tạo, trách nhiệm, nhiệt tình trong công việc",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[3]/p[3]"
+  },
+  {
+    "content": "- Kỹ năng giao tiếp, đàm phán tốt, có khả năng marketing và vi tính văn phòng, kỹ năng quảng bá thương hiệu trên Internet.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[3]/p[4]"
+  },
+  {
+    "content": "- Có khả năng làm việc độc lập và theo nhóm, chịu được áp lực cao trong công việc.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[3]/p[5]"
+  },
+  {
+    "content": "- Ưu tiên có kinh nghiệm bán xe ô tô tại các hãng xe.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[3]/p[6]"
+  },
+  {
+    "content": "- Với những ứng viên chưa có kinh nghiệm bán xe: cần có kinh nghiệm kinh doanh, yêu thích kinh doanh, yêu thích lĩnh vực ô tô, ưu tiên ứng viên có kiến thức về ô tô,..",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[3]/p[7]"
+  },
+  {
+    "content": "Mô tả",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/h2[3]"
+  },
+  {
+    "content": "Mã việc làm:\n                                01",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[1]"
+  },
+  {
+    "content": "Ngành nghề việc làm:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[2]"
+  },
+  {
+    "content": "Tư vấn",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[2]/ul/li[1]/a/span"
+  },
+  {
+    "content": "Bán hàng",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[2]/ul/li[2]/a/span"
+  },
+  {
+    "content": "Ô tô",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[2]/ul/li[3]/a/span"
+  },
+  {
+    "content": "Cấp bậc:\n\n                                                            Nhân viên",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[3]"
+  },
+  {
+    "content": "Nơi làm việc:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[4]"
+  },
+  {
+    "content": ",",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[4]/ul/li"
+  },
+  {
+    "content": "Hà Nội",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[4]/ul/li/a"
+  },
+  {
+    "content": "Quận Hoàng Mai",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[4]/ul/li/span"
+  },
+  {
+    "content": "Trình độ học vấn:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[5]"
+  },
+  {
+    "content": "Trung cấp",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[5]/span"
+  },
+  {
+    "content": "Mức kinh nghiệm:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[6]"
+  },
+  {
+    "content": "0-1 năm kinh nghiệm",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[6]/span"
+  },
+  {
+    "content": "Loại công việc:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[7]"
+  },
+  {
+    "content": "Toàn thời gian cố định",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[7]/span"
+  },
+  {
+    "content": "Tuổi:\n\n                                                            22-40",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[8]"
+  },
+  {
+    "content": "Giới tính:\n\n                                                            Nam/Nữ",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[2]/li[9]"
+  },
+  {
+    "content": "Thông tin liên hệ",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/h2[4]"
+  },
+  {
+    "content": "Cách liên hệ:\n                            Nộp trực tuyến, Gửi kèm File, Trực tiếp",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[1]"
+  },
+  {
+    "content": "Mô tả:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[2]"
+  },
+  {
+    "content": "- Đơn xin việc- Sơ yếu lý lịch trình bày rõ quá trình học tập và công tác- Giấy khám sức khoẻ trong vòng 06 tháng- Các bằng cấp, chứng chỉ liên quan, bảng điểm công chứng- Bản công chứng CMND, hộ khẩu, giấy khai sinh- Bản CV mô tả kỹ năng, kinh nghiệm",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[2]/p"
+  },
+  {
+    "content": "- Các ứng viên quan tâm vui lòng gửi hồ sơ trực tuyến, gửi kèm file hoặc nộp trực tiếp tại công ty.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[2]/p/em/strong"
+  },
+  {
+    "content": "Tên liên hệ:\n                            Ms Dung",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[3]"
+  },
+  {
+    "content": "Địa chỉ:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[4]"
+  },
+  {
+    "content": ",\n                    ,",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[4]/span/span"
+  },
+  {
+    "content": "Km9, QL 1A, Hoàng Liệt",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[4]/span/span/span[1]"
+  },
+  {
+    "content": ", Quận Hoàng Mai",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[4]/span/span/span[2]"
+  },
+  {
+    "content": "Hà Nội",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[4]/span/span/span[3]"
+  },
+  {
+    "content": "Việt Nam",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/ul[3]/li[4]/span/span/span[4]"
+  },
+  {
+    "content": "** Nhận hồ sơ ứng viên bằng ngôn ngữ:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[4]/strong/em"
+  },
+  {
+    "content": "Tiếng Việt",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[4]/strong/em/mark"
+  },
+  {
+    "content": "Ngày gởi:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/dl/dt[1]"
+  },
+  {
+    "content": "04/04/2019",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/dl/dd[1]"
+  },
+  {
+    "content": "2019-04-04",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/dl/dd[1]/span"
+  },
+  {
+    "content": "Ngày hết hạn:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/dl/dt[2]"
+  },
+  {
+    "content": "04/05/2019",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/dl/dd[2]"
+  },
+  {
+    "content": "2019-05-04T24:00+07:00",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/dl/dd[2]/span"
+  },
+  {
+    "content": "Nơi làm việc",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[5]/h2"
+  },
+  {
+    "content": ":\n                                                \n                                                ,",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[5]/ul/li/a"
+  },
+  {
+    "content": "VP HN",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[5]/ul/li/a/strong"
+  },
+  {
+    "content": "Km9, QL 1A, Hoàng Liệt",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[5]/ul/li/a/span[1]"
+  },
+  {
+    "content": ",\n                                                        Quận Hoàng Mai,Hà Nội",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[5]/ul/li/a/span[2]"
+  },
+  {
+    "content": "Việt Nam",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/div[5]/ul/li/a/span[3]"
+  },
+  {
+    "content": "Tags",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/h2[5]"
+  },
+  {
+    "content": "Nhân Viên Kinh Doanh",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/p/a[1]"
+  },
+  {
+    "content": "Nhân Viên Bán Hàng",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/p/a[2]"
+  },
+  {
+    "content": "Quận Hoàng Mai",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/p/a[3]"
+  },
+  {
+    "content": "Tư vấn",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/p/a[4]"
+  },
+  {
+    "content": "Hà Nội",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[1]/div/p/a[5]"
+  },
+  {
+    "content": "Công ty Cổ Phần Tập Đoàn Thái Bình Chi Nhánh Ô Tô Giải Phóng",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/dl/dt/a/span/span"
+  },
+  {
+    "content": "hondagiaiphong.com.vn",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/dl/dd/a"
+  },
+  {
+    "content": "Số nhân viên:",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/ul[1]/li[1]"
+  },
+  {
+    "content": "100-499",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/ul[1]/li[1]/span"
+  },
+  {
+    "content": "Tên liên hệ:\n                            Ms Dung",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/ul[1]/li[2]"
+  },
+  {
+    "content": "Là một trong bốn đại lý ô tô Honda tại Hà Nội và là một trong bốn đại lý ô tô đầu tiên của Honda Việt Nam,đại lý Honda ô tô Giải Phóng đã đáp ứng đầy đủ điều kiện về cơ sở vật chất,trang thiết bị cũng như quy trình hoạt động của Honda Việt Nam,và đang khẳng định được sức cạnh tranh trên thị trường ô tô Việt Nam.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/div/p/strong[1]"
+  },
+  {
+    "content": "Đại lý Honda Ôtô Giải Phóng hoạt động từ cuối tháng 8/2006 đã thực sự trở thành địa chỉ tin cậy cho nhiều khách hàng không chỉ ở thủ đô Hà Nội mà cả các tỉnh phía Bắc.",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/div/p/strong[2]"
+  },
+  {
+    "content": "Việc làm từ Công ty này",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/h2"
+  },
+  {
+    "content": "Nhân Viên Kiêm Quản Lý Kho Phụ Tùng, Phụ Kiện Ô Tô",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/ul[2]/li[1]/a"
+  },
+  {
+    "content": "Kỹ Thuật Viên Gò, Đánh Bóng, Sửa Chữa Ô Tô",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/ul[2]/li[2]/a"
+  },
+  {
+    "content": "Kỹ Thuật Viên Sơn Ô Tô",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/ul[2]/li[3]/a"
+  },
+  {
+    "content": "Cố Vấn Viên Dịch Vụ Ô Tô",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/ul[2]/li[4]/a"
+  },
+  {
+    "content": "Nhân Viên Sale Admin",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/ul[2]/li[5]/a"
+  },
+  {
+    "content": "Việc làm khác từ Công ty này >>",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[2]/div[2]/div[2]/div/p[2]/a"
+  },
+  {
+    "content": "CareerLink",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[3]/ol/li[1]/a/span"
+  },
+  {
+    "content": "Tìm Việc Làm",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[3]/ol/li[2]/a/span[2]"
+  },
+  {
+    "content": "Nhân Viên Tư Vấn Bán Hàng Ô Tô Honda",
+    "label": "",
+    "xpath": "/html/body/div[1]/div[3]/ol/li[3]/a/span[2]"
+  },
+  {
+    "content": "Cảm ơn bạn đã đăng ký nhận bản tin từ CareerLink.vn.",
+    "label": "",
+    "xpath": "/html/body/div[3]/div"
+  }
+]
