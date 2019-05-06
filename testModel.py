@@ -90,7 +90,7 @@ def getMostAppear(strings):
     return result
 def wrapper( list_xpath_content, list_mismath_attribute):
 
-    classifier = pickle.load(open('trained_model/logistic_model.pk','rb'))
+    classifier = pickle.load(open('trained_model/svm_model.pk','rb'))
 
     # tf-idf
     vectorizer = pickle.load(open(settings.VECTOR_EMBEDDING,'rb'))
@@ -120,7 +120,7 @@ if __name__ == '__main__':
         data = json.load(f)
     for item in data:
         list_xpath_content.append([item['xpath'], item['content']])
-    list_mismath_attribute = ['4.0','5.0','6.0','13.0','7.0', '9.0', '16.0','17.0','15.0','14.0']
+    list_mismath_attribute = ['14.0']
     result = wrapper(list_xpath_content,list_mismath_attribute)
     print(result)
     with open('Result/result2.text',encoding = 'utf-8', mode = 'w') as f:
