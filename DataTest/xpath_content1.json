@@ -1,0 +1,1497 @@
+[
+    {
+        "content": "Tìm",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[1]/div[3]/div/div/button"
+    },
+    {
+        "content": "Xóa tìm kiếm nâng cao",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[1]/div/span[1]"
+    },
+    {
+        "content": "|",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[1]/div/span[1]/i[2]"
+    },
+    {
+        "content": "Chọn tìm kiếm nâng cao",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[1]/div/span[2]"
+    },
+    {
+        "content": "Ẩn tìm kiếm nâng cao",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[1]/div/span[3]"
+    },
+    {
+        "content": ",\n,\n,\n,\n,\n,\n,",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[3]"
+    },
+    {
+        "content": "việc làm nhân viên kinh doanh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[3]/a[1]"
+    },
+    {
+        "content": "việc làm nhân viên bán hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[3]/a[2]"
+    },
+    {
+        "content": "việc làm nhân viên telesales",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[3]/a[3]"
+    },
+    {
+        "content": "việc làm nhân viên marketing",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[3]/a[4]"
+    },
+    {
+        "content": "việc làm lập trình php",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[3]/a[5]"
+    },
+    {
+        "content": "việc làm nhân viên seo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[3]/a[6]"
+    },
+    {
+        "content": "việc làm thực tập sinh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/div/div/div/form/div[2]/div[3]/a[7]"
+    },
+    {
+        "content": "Trang chủ",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[1]/ul/li[1]/a"
+    },
+    {
+        "content": "Việc làm tại Hà Nội, Hồ Chí Minh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[1]/ul/li[2]/a"
+    },
+    {
+        "content": "Chuyên viên Tư vấn Tuyển sinh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[1]/ul/li[3]/span"
+    },
+    {
+        "content": "Chuyên viên Tư vấn Tuyển sinh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[2]/div/div[1]/div/div[2]/h1"
+    },
+    {
+        "content": "Công ty cổ phần đào tạo Công nghệ Trẻ TEKY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span/a"
+    },
+    {
+        "content": "Hà Nội, Hồ Chí Minh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[2]/div/div[1]/div/div[2]/div[2]"
+    },
+    {
+        "content": "Hạn nộp hồ sơ: 30/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[2]/div/div[1]/div/div[2]/div[3]"
+    },
+    {
+        "content": "ỨNG TUYỂN NGAY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[2]/div/div[2]/div/p/a"
+    },
+    {
+        "content": "Lưu tin",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[2]/div[2]/div/div[2]/div/div/a"
+    },
+    {
+        "content": "Mô tả công việc",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/h2[1]"
+    },
+    {
+        "content": "- Chủ động liên hệ và tư vấn với các học viên (phụ huynh) tiềm năng theo danh sách được cung cấp.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[1]"
+    },
+    {
+        "content": "- Tư vấn và thuyết phục học viên (phụ huynh) đăng ký các khóa học công nghệ thông tin cho con (Lập trình và phát triển ứng dụng, Robotics, Công nghệ 3D và MultiMedia) theo chương trình giảng dạy STEAM cho trẻ em.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[2]"
+    },
+    {
+        "content": "- Chăm sóc khách hàng qua điện thoại, hệ thống quản trị quan hệ khách hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[3]"
+    },
+    {
+        "content": "-\tChi tiết công việc sẽ trao đổi trong quá trình phỏng vấn.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[4]"
+    },
+    {
+        "content": "•\tĐỊA ĐIỂM LÀM VIỆC",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[5]"
+    },
+    {
+        "content": "Hà Nội:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[6]"
+    },
+    {
+        "content": "- Số 6 Nguyễn Thị Thập, Trung Hòa Nhân Chính, Hà Nội",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[7]"
+    },
+    {
+        "content": "- Tầng 5, tòa nhà Mac Plaza, số 10 Trần Phú, Hà Đông",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[8]"
+    },
+    {
+        "content": "- 96 Phố Hai Bà Trưng, Phường Cửa Nam, quận Hoàn Kiếm.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[10]"
+    },
+    {
+        "content": "Hồ Chí Minh:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[11]"
+    },
+    {
+        "content": "- Tòa nhà Sài Gòn Mall, 19 Cao Thắng, P2, Q3, HCM",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[12]"
+    },
+    {
+        "content": "- Tòa nhà Tất Minh, 249 Cộng Hòa, Phường 12, Quận Tân Bình, HCM.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[13]"
+    },
+    {
+        "content": "- TEKY Sunrise Quận 7",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[14]"
+    },
+    {
+        "content": "- TEKY Quận Bình Thạnh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[15]"
+    },
+    {
+        "content": "- TEKY Quận Gò Vấp",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[1]/p[16]"
+    },
+    {
+        "content": "Yêu cầu ứng viên",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/h2[2]"
+    },
+    {
+        "content": "- Đã có kinh nghiệm làm tư vấn tại các trung tâm Tiếng Anh, Tin học... thuộc lĩnh vực giáo dục là 1 lợi thế.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[2]/p[1]"
+    },
+    {
+        "content": "- Giọng nói chuẩn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[2]/p[2]"
+    },
+    {
+        "content": "- Sẵn sàng cống hiến hết mình để có thu nhập cao, ổn định.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[2]/p[3]"
+    },
+    {
+        "content": "- Có laptop cá nhân. Không ngại làm cuối tuần",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[2]/p[5]"
+    },
+    {
+        "content": "Quyền lợi được hưởng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/h2[3]"
+    },
+    {
+        "content": "- Lương cứng ( 7 - 10 triệu) + % hoa hồng + Thưởng thành tích kinh doanh.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]"
+    },
+    {
+        "content": "- Được đóng BHXH, BHYT, BHTN đầy đủ theo chế độ của Nhà nước.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[1]"
+    },
+    {
+        "content": "- Được làm việc trong môi trường Startup năng động, chuyên nghiệp, cơ sở vật chất hiện đại.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[2]"
+    },
+    {
+        "content": "- Lương tháng thứ 13, thưởng tháng, thưởng quý, thưởng nóng theo thành tích kinh doanh.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[3]"
+    },
+    {
+        "content": "- Team building theo Quý, chế độ du lịch, nghỉ mát 1 lần/ năm.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[4]"
+    },
+    {
+        "content": "- Thường xuyên tham gia các buổi đào tạo kĩ năng chuyên môn và kiến thức sản phẩm hàng tháng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[5]"
+    },
+    {
+        "content": "- Được học hỏi, trau dồi kiến thức về Marketing.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[6]"
+    },
+    {
+        "content": "- Được rèn luyện kỹ năng đánh giá Target và Insight khách hàng.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[7]"
+    },
+    {
+        "content": "- Được trang bị công nghệ hiện đại: hệ thống quản trị khách hàng “hỏi là có thông tin”, được huấn luyện kỹ lưỡng, liên tục.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[8]"
+    },
+    {
+        "content": "- Được cung cấp hàng ngày nguồn học viên dồi dào, không hạn chế, từ nhiều kênh.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div[9]"
+    },
+    {
+        "content": "Cách thức ứng tuyển",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/h2[4]"
+    },
+    {
+        "content": "Ứng viên nộp hồ sơ trực tuyến bằng cách bấm  dưới đây.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[4]/p"
+    },
+    {
+        "content": "Ứng tuyển ngay",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[4]/p/strong"
+    },
+    {
+        "content": "ỨNG TUYỂN NGAY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[4]/div/div/p[1]/a"
+    },
+    {
+        "content": "Hạn nộp hồ sơ: 30/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[4]/div/div/p[2]"
+    },
+    {
+        "content": "Xem CV đã nộp",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[4]/div/div/p[3]/a"
+    },
+    {
+        "content": "Tin được đăng bởi  - Ban tuyển dụng Công ty cổ phần đào tạo Công nghệ Trẻ TEKY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[5]/div/div[1]"
+    },
+    {
+        "content": "Ms. Lý",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[5]/div/div[1]/span"
+    },
+    {
+        "content": "Phản ánh tin tuyển dụng không chính xác",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[5]/div/div[2]/a"
+    },
+    {
+        "content": "Ngành nghề",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[6]/h4"
+    },
+    {
+        "content": "Giáo dục / Đào tạo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[6]/span[1]/a"
+    },
+    {
+        "content": "Kinh doanh / Bán hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[6]/span[2]/a"
+    },
+    {
+        "content": "Tư vấn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[6]/span[3]/a"
+    },
+    {
+        "content": "THÔNG TIN CHI TIẾT",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[1]/h2"
+    },
+    {
+        "content": "Mức lương:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[1]/strong"
+    },
+    {
+        "content": "Đăng nhập để xem mức lương",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[1]/span/a"
+    },
+    {
+        "content": "Hình thức làm việc:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[2]/strong"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[2]/span"
+    },
+    {
+        "content": "Số lượng cần tuyển:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[3]/strong"
+    },
+    {
+        "content": "10",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[3]/span"
+    },
+    {
+        "content": "Chức vụ:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[4]/strong"
+    },
+    {
+        "content": "Nhân viên",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[4]/span"
+    },
+    {
+        "content": "Kinh nghiệm yêu cầu:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[5]/strong"
+    },
+    {
+        "content": "Dưới 1 năm",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[5]/span"
+    },
+    {
+        "content": "Địa điểm làm việc:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[6]/strong"
+    },
+    {
+        "content": "Hà Nội",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[6]/span/a[1]"
+    },
+    {
+        "content": ",",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[6]/span/span"
+    },
+    {
+        "content": "Hồ Chí Minh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[2]/div[6]/span/a[2]"
+    },
+    {
+        "content": "VIỆC LÀM LIÊN QUAN",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/h2"
+    },
+    {
+        "content": "Hot",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[1]/div/div/div[2]/p[1]/a/span[1]"
+    },
+    {
+        "content": "Nhân viên Hành chính",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[1]/div/div/div[2]/p[1]/a/span[2]/strong"
+    },
+    {
+        "content": "Trường Doanh Nhân PACE",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[1]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Chuyên viên Tư vấn Khóa học Dự án Tick Edu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[2]/div/div/div[2]/p[1]/a/span/strong"
+    },
+    {
+        "content": "Công ty cổ phần đào tạo Công nghệ Trẻ TEKY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[2]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Trưởng phòng Đào tạo Trung tâm Anh ngữ",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[3]/div/div/div[2]/p[1]/a/span/strong"
+    },
+    {
+        "content": "Công ty cổ phần đầu tư GEMS Việt Nam",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[3]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Nhân viên Bán hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[4]/div/div/div[2]/p[1]/a/span/strong"
+    },
+    {
+        "content": "công ty VinCommerce",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[4]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Gấp",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[5]/div/div/div[2]/p[1]/a/span[1]"
+    },
+    {
+        "content": "Nhân viên Tư vấn lương CB 6.2 - 8.5 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[5]/div/div/div[2]/p[1]/a/span[2]/strong"
+    },
+    {
+        "content": "TNHH BROKER JET",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[5]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Chuyên viên Telesales",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[6]/div/div/div[2]/p[1]/a/span/strong"
+    },
+    {
+        "content": "Tập đoàn Digital Novaon",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[6]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Nhân viên Kinh doanh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[7]/div/div/div[2]/p[1]/a/span/strong"
+    },
+    {
+        "content": "CÔNG TY TNHH SNAPPY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[7]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Digital Marketing",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[8]/div/div/div[2]/p[1]/a/span/strong"
+    },
+    {
+        "content": "Kaio JSC",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[8]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "[HCM] - Nhân viên Tư vấn Đăng tin Website",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[9]/div/div/div[2]/p[1]/a/span/strong"
+    },
+    {
+        "content": "Công ty Cổ phần Đầu tư và Công nghệ Đại Việt",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[9]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Nhân viên Kinh doanh Trực page",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[10]/div/div/div[2]/p[1]/a/span/strong"
+    },
+    {
+        "content": "Công ty Cổ phần CCGroup Toàn Cầu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[3]/div/div[10]/div/div/div[2]/p[2]/a/span"
+    },
+    {
+        "content": "Chia sẻ việc làm tới bạn bè",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[2]/div[4]/h4"
+    },
+    {
+        "content": "GIỚI THIỆU CÔNG TY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/h2[1]"
+    },
+    {
+        "content": "TEKY là Học viện sáng tạo công nghệ với chương trình giảng dạy STEAM (Science – Technology – Engineering – Art – Mathematics) theo chuẩn Mỹ đầu tiên tại Việt Nam dành cho trẻ em từ 6 đến 18 tuổi. Được thành lập vào tháng 6 năm 2016, TEKY quyết tâm thực hiện sứ mệnh mang đến cho thế hệ trẻ Việt Nam kiến thức toàn diện về STEAM, đặc biệt là các tư duy công nghệ, khoa học máy tính và kỹ năng thế kỷ 21 – 4Cs (Critical Thinking Tư duy phản biện – Communication – Giao tiếp – Creativity Sáng tạo – Collaboration Làm việc nhóm). Các bộ môn giảng dạy tại Teky gồm: Lập trình và phát triển ứng dụng, Robotics Engineering, Công nghệ 3D và MultiMedia. Chúng tôi tin rằng trẻ em Việt Nam có cơ hội phát triển mạnh mẽ trong một nền kinh tế số và cần được trang bị sẵn sàng để trở thành những doanh nhân công nghệ trong tương lai.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[1]/p[1]"
+    },
+    {
+        "content": "Tháng 11/2016, Teky là đơn vị đầu tiên tại Việt Nam gặt hái được 5 huy chương bạc trong cuộc thi lập trình quốc tế WeCode – bộ môn lập trình Scratch cho độ tuổi 6-9.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[1]/p[2]"
+    },
+    {
+        "content": "Tháng 3/2017, Teky là 1 trong 10 dự án Ảnh hưởng Xã hội trên toàn bộ khu vực Đông Nam Á và dự án duy nhất tại Việt Nam, theo bình chọn của Chính phủ Úc thông qua sàng lọc 2000 dự án khác.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[1]/p[3]"
+    },
+    {
+        "content": "Tháng 6/2017, Teky là 1 trong 3 dự án được đánh giá cao nhất trong sự kiện Women NextGen Entrepreneur diễn ra tại Thuỵ sĩ.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[1]/p[4]"
+    },
+    {
+        "content": "Tính tới tháng 9/2017, Teky đã đem chương trình Hour of Code tới trên 3.000 học sinh toàn quốc.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[1]/p[5]"
+    },
+    {
+        "content": "LIÊN HỆ",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/h2[2]"
+    },
+    {
+        "content": "Website:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[2]"
+    },
+    {
+        "content": "Trụ sở công ty: Tầng 5, tòa MAC Plaza, số 10 Trần Phú, Hà Đông",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[2]/p[1]"
+    },
+    {
+        "content": "Điện thoại: 0868029988",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[2]/p[2]"
+    },
+    {
+        "content": "https://teky.edu.vn/",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[1]/div[2]/a"
+    },
+    {
+        "content": "Chia sẻ việc làm tới bạn bè",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[2]/div[1]/h4"
+    },
+    {
+        "content": "ĐÁNH GIÁ",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[2]/div[2]/h4"
+    },
+    {
+        "content": "Hiện chưa có đánh giá nào. Hãy là người đầu tiên đưa ra đánh giá",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[2]/div[2]/div"
+    },
+    {
+        "content": "Đánh giá của bạn về công ty này?",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[2]/div[2]/div/div[2]"
+    },
+    {
+        "content": "ĐÁNH GIÁ NGAY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[2]/div[2]/div/div[3]/a"
+    },
+    {
+        "content": "THÔNG TIN CÔNG TY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[2]/div[3]/h4"
+    },
+    {
+        "content": "Tầng 5, tòa MAC Plaza, số 10 Trần Phú, Hà Đông",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[2]/div/div[2]/div[3]/div/p"
+    },
+    {
+        "content": "Chuyên viên Tư vấn Khóa học Dự án Tick Edu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/h5/a"
+    },
+    {
+        "content": "25/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/div[1]/span"
+    },
+    {
+        "content": "6-10 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/div[3]/span"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/div[4]/span"
+    },
+    {
+        "content": "Dịch vụ khách hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/div[5]/span[1]/a"
+    },
+    {
+        "content": "Giáo dục / Đào tạo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Tư vấn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/div[5]/span[3]/a"
+    },
+    {
+        "content": "Chuyên viên Kinh doanh Mảng Đối tác",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[2]/h5/a"
+    },
+    {
+        "content": "30/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[2]/div[1]/span"
+    },
+    {
+        "content": "7-15 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[2]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội, Hồ Chí Minh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[2]/div[3]/span"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[2]/div[4]/span"
+    },
+    {
+        "content": "Kinh doanh / Bán hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[2]/div[5]/span[1]/a"
+    },
+    {
+        "content": "Dịch vụ khách hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[2]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Tư vấn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[2]/div[5]/span[3]/a"
+    },
+    {
+        "content": "Chuyên viên Tư vấn Giảng viên",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[3]/h5/a"
+    },
+    {
+        "content": "10/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[3]/div[1]/span"
+    },
+    {
+        "content": "6-8 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[3]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[3]/div[3]/span"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[3]/div[4]/span"
+    },
+    {
+        "content": "Kinh doanh / Bán hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[3]/div[5]/span[1]/a"
+    },
+    {
+        "content": "Dịch vụ khách hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[3]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Tư vấn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[3]/div[5]/span[3]/a"
+    },
+    {
+        "content": "Chuyên viên Kinh doanh Phần mềm Dự án Gadget",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[4]/h5/a"
+    },
+    {
+        "content": "10/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[4]/div[1]/span"
+    },
+    {
+        "content": "7-15 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[4]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[4]/div[3]/span"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[4]/div[4]/span"
+    },
+    {
+        "content": "Bán hàng kỹ thuật",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[4]/div[5]/span[1]/a"
+    },
+    {
+        "content": "IT phần mềm",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[4]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Kinh doanh / Bán hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[4]/div[5]/span[3]/a"
+    },
+    {
+        "content": "Cộng tác viên Telesales",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[5]/h5/a"
+    },
+    {
+        "content": "11/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[5]/div[1]/span"
+    },
+    {
+        "content": "2-2 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[5]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội, Hồ Chí Minh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[5]/div[3]/span"
+    },
+    {
+        "content": "Bán thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[5]/div[4]/span"
+    },
+    {
+        "content": "Dịch vụ khách hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[5]/div[5]/span[1]/a"
+    },
+    {
+        "content": "Ngành nghề khác",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[5]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Tư vấn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[5]/div[5]/span[3]/a"
+    },
+    {
+        "content": "Nhân viên Trade Event",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[6]/h5/a"
+    },
+    {
+        "content": "17/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[6]/div[1]/span"
+    },
+    {
+        "content": "Trên 8 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[6]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội, Hồ Chí Minh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[6]/div[3]/span"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[6]/div[4]/span"
+    },
+    {
+        "content": "Báo chí / Truyền hình",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[6]/div[5]/span[1]/a"
+    },
+    {
+        "content": "Giáo dục / Đào tạo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[6]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Marketing / Truyền thông / Quảng cáo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[6]/div[5]/span[3]/a"
+    },
+    {
+        "content": "Nhân viên Sales Marketing",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[7]/h5/a"
+    },
+    {
+        "content": "11/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[7]/div[1]/span"
+    },
+    {
+        "content": "7-10 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[7]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[7]/div[3]/span"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[7]/div[4]/span"
+    },
+    {
+        "content": "Kinh doanh / Bán hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[7]/div[5]/span[1]/a"
+    },
+    {
+        "content": "Giáo dục / Đào tạo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[7]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Marketing / Truyền thông / Quảng cáo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[7]/div[5]/span[3]/a"
+    },
+    {
+        "content": "Chuyên viên Vận hành Lớp học",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/h5/a"
+    },
+    {
+        "content": "25/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/div[1]/span"
+    },
+    {
+        "content": "7-9 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội, Hồ Chí Minh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/div[3]/span"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/div[4]/span"
+    },
+    {
+        "content": "Dịch vụ khách hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/div[5]/span[1]/a"
+    },
+    {
+        "content": "Giáo dục / Đào tạo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Hành chính / Văn phòng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/div[5]/span[3]/a"
+    },
+    {
+        "content": "Giảng viên Cộng tác",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[9]/h5/a"
+    },
+    {
+        "content": "23/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[9]/div[1]/span"
+    },
+    {
+        "content": "Trên 5 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[9]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội, Hồ Chí Minh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[9]/div[3]/span"
+    },
+    {
+        "content": "Bán thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[9]/div[4]/span"
+    },
+    {
+        "content": "Giáo dục / Đào tạo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[9]/div[5]/span[1]/a"
+    },
+    {
+        "content": "IT Phần cứng / Mạng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[9]/div[5]/span[2]/a"
+    },
+    {
+        "content": "IT phần mềm",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[9]/div[5]/span[3]/a"
+    },
+    {
+        "content": "OTA Sales Executive - 12Trip",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[10]/h5/a"
+    },
+    {
+        "content": "31/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[10]/div[1]/span"
+    },
+    {
+        "content": "Tới 10 triệu",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[10]/div[2]/span"
+    },
+    {
+        "content": "Hà Nội",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[10]/div[3]/span"
+    },
+    {
+        "content": "Toàn thời gian",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[10]/div[4]/span"
+    },
+    {
+        "content": "Dịch vụ khách hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[10]/div[5]/span[1]/a"
+    },
+    {
+        "content": "Kinh doanh / Bán hàng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[10]/div[5]/span[2]/a"
+    },
+    {
+        "content": "Tư vấn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[10]/div[5]/span[3]/a"
+    },
+    {
+        "content": "http://tuyendung.topcv.vn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[4]/div/div[1]/a[2]"
+    },
+    {
+        "content": "Đăng tin tuyển dụng  MIỄN PHÍ",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[4]/div/div[2]/div[1]"
+    },
+    {
+        "content": "Hỗ trợ nhà tuyển dụng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[4]/div/div[2]/div[2]/div"
+    },
+    {
+        "content": "Hotline 098 423 4396 (Ms. Linh)",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[4]/div/div[2]/div[3]/p[1]"
+    },
+    {
+        "content": "Tổng đài: (024) 710 79 799",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[4]/div/div[2]/div[3]/p[2]"
+    },
+    {
+        "content": "Skype: topcv_cskh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[4]/div[4]/div/div[2]/div[3]/p[3]"
+    },
+    {
+        "content": "Thông báo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[5]/div/div/div[1]/h3"
+    },
+    {
+        "content": "Công việc cấp độ quản lý yêu cầu ứng viên từ 22 tuổi trở lên",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[5]/div/div/div[2]/p[1]"
+    },
+    {
+        "content": "Nếu thông tin độ tuổi của bạn không chính xác vui lòng cập nhật lại năm sinh trong mục",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[5]/div/div/div[2]/p[2]/i"
+    },
+    {
+        "content": "Cài đặt gợi ý việc làm",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[5]/div/div/div[2]/p[2]/i/a"
+    },
+    {
+        "content": "Đóng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[1]/div[5]/div/div/div[3]/button"
+    },
+    {
+        "content": "Yêu cầu xác thực tài khoản",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[2]/div/div/div[1]/h4"
+    },
+    {
+        "content": "Bạn vui lòng xác thực tài khoản để sử dụng tính năng ứng tuyển. Xác thực ngay .",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[2]/div/div/div[2]"
+    },
+    {
+        "content": "tại đây",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[2]/div/div/div[2]/a"
+    },
+    {
+        "content": "Đóng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[2]/div/div/div[3]/button"
+    },
+    {
+        "content": "Đang tải ...",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/div/span"
+    },
+    {
+        "content": "×",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[1]/button/span"
+    },
+    {
+        "content": "Ứng tuyển",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[1]/h4"
+    },
+    {
+        "content": "Chuyên viên Tư vấn Tuyển sinh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[1]/h4/span"
+    },
+    {
+        "content": "Bạn chưa có CV nào",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[1]/div[1]/div/label"
+    },
+    {
+        "content": "Tạo CV Ngay",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[1]/div[1]/div/a"
+    },
+    {
+        "content": "(Sau khi tạo mới CV, tải lại trang này để có thể ứng tuyển nhanh)",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[1]/div[1]/div/div"
+    },
+    {
+        "content": "hoặc",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[1]/div[2]/div/label"
+    },
+    {
+        "content": "Tải lên CV từ máy tính",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[1]/div[2]/a"
+    },
+    {
+        "content": "&nbsp",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[2]/div[1]/div[1]/p"
+    },
+    {
+        "content": "Tải lên CV đã có",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[2]/div[1]/div[1]/p/label"
+    },
+    {
+        "content": "File doc, docx, pdf. Tối đa 5MB.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[2]/div[1]/div[1]/p/span"
+    },
+    {
+        "content": "Sử dụng CV Online",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[2]/div[1]/div[2]/a"
+    },
+    {
+        "content": "Họ và tên:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[1]/div[2]/div[3]/label"
+    },
+    {
+        "content": "Thư giới thiệu:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[2]/div[2]/label"
+    },
+    {
+        "content": "Đóng lại",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[3]/button[1]"
+    },
+    {
+        "content": "Nộp CV",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[3]/button[2]"
+    },
+    {
+        "content": "Nếu bạn gặp vấn đề khi ứng tuyển vui lòng tải",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[3]/div"
+    },
+    {
+        "content": "trình duyệt Google Chrome mới nhất tại đây",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[3]/div/div/form/div[3]/div/a"
+    },
+    {
+        "content": "Phản ánh tin tuyển dụng không chính xác",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/div/h3"
+    },
+    {
+        "content": "Hãy cho TopCV biết về tin tuyển dụng có nội dung không đáng tin cậy.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/div/p"
+    },
+    {
+        "content": "Tin tuyển dụng:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[1]/label"
+    },
+    {
+        "content": "Chuyên viên Tư vấn Tuyển sinh - Công ty cổ phần đào tạo Công nghệ Trẻ TEKY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[1]/div"
+    },
+    {
+        "content": "Họ và tên:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[2]/label"
+    },
+    {
+        "content": "*",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[2]/label/span"
+    },
+    {
+        "content": "Họ và tên không được trống",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[2]/div/p"
+    },
+    {
+        "content": "Địa chỉ email:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[3]/label"
+    },
+    {
+        "content": "*",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[3]/label/span"
+    },
+    {
+        "content": "Địa chỉ email không được trống",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[3]/div/p"
+    },
+    {
+        "content": "Nội dung:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[4]/label"
+    },
+    {
+        "content": "*",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[4]/label/span"
+    },
+    {
+        "content": "Nội dung phản hồi không được trống",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[4]/div/p"
+    },
+    {
+        "content": "Đóng",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[5]/div/button[1]"
+    },
+    {
+        "content": "Gửi",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[4]/div/div/div/form/div[5]/div/button[2]"
+    },
+    {
+        "content": "×",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[5]/div/div/div[1]/button/span"
+    },
+    {
+        "content": "Thông báo",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[5]/div/div/div[1]/h4"
+    },
+    {
+        "content": "Tài khoản của bạn đang tạm thời bị khóa chức năng .",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[5]/div/div/div[2]/p[2]"
+    },
+    {
+        "content": "ứng tuyển",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[5]/div/div/div[2]/p[2]/strong"
+    },
+    {
+        "content": "Vui lòng liên hệ bộ phận Chăm sóc khách hàng TopCV để được hỗ trợ.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[5]/div/div/div[2]/p[3]"
+    },
+    {
+        "content": "Email:",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[5]/div/div/div[2]/p[4]"
+    },
+    {
+        "content": "hotro@topcv.vn",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[5]/div/div/div[2]/p[4]/a"
+    },
+    {
+        "content": "Chuyên viên Tư vấn Tuyển sinh",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[6]/div/div/div[1]/div/div[2]/div[1]/p"
+    },
+    {
+        "content": "Công ty cổ phần đào tạo Công nghệ Trẻ TEKY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[6]/div/div/div[1]/div/div[2]/div[2]/span/a"
+    },
+    {
+        "content": "Tầng 5, tòa MAC Plaza, số 10 Trần Phú, Hà Đông",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[6]/div/div/div[1]/div/div[2]/div[3]"
+    },
+    {
+        "content": "Ngày hết hạn: 30/05/2019",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[6]/div/div/div[2]/div/p[1]"
+    },
+    {
+        "content": "ỨNG TUYỂN NGAY",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[6]/div/div/div[2]/div/p[2]/a"
+    },
+    {
+        "content": "Xem CV đã nộp",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[6]/div/div/div[2]/div/p[3]/a"
+    },
+    {
+        "content": "×",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[7]/div/div/div/button/span"
+    },
+    {
+        "content": "Ứng tuyển thành công!",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[7]/div/div/div/h4"
+    },
+    {
+        "content": "Bạn có thể xem lại danh sách tại trang .",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[7]/div/div/div/p"
+    },
+    {
+        "content": "Quản lý CV đã ứng tuyển",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[7]/div/div/div/p/a"
+    },
+    {
+        "content": "Đóng lại",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[7]/div/div/div/div/a"
+    },
+    {
+        "content": "Bạn muốn được Nhà tuyển dụng săn đón",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[8]/div[2]/div[1]/h3"
+    },
+    {
+        "content": "TopCV là nền tảng  thông qua CV đầu tiên tại Việt Nam, nơi mà ứng viên sẽ được Nhà tuyển dụng chủ động săn đón, dù ở bất kỳ vị trí nào.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[8]/div[2]/div[2]/div/p[1]"
+    },
+    {
+        "content": "Kết nối cơ hội việc làm",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[8]/div[2]/div[2]/div/p[1]/b"
+    },
+    {
+        "content": "Việc của bạn cần làm là tạo cho mình 1 CV Chuyên nghiệp.",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[8]/div[2]/div[2]/div/p[2]"
+    },
+    {
+        "content": "Tạo CV ngay",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[8]/div[2]/div[2]/div/div/a"
+    },
+    {
+        "content": "Để mình xem sau",
+        "label": "",
+        "xpath": "/html/body/div[3]/div[8]/div[2]/div[3]/p"
+    },
+    {
+        "content": "Đăng nhập",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/ul/li[1]/a"
+    },
+    {
+        "content": "Đăng ký",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/ul/li[2]/a"
+    },
+    {
+        "content": "Đăng nhập bằng Facebook",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[2]/div/div[1]/a"
+    },
+    {
+        "content": "Khi bạn đăng nhập bằng facebook, mặc định bạn đồng ý với  và  của TopCV",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[2]/div/div[1]/p/span"
+    },
+    {
+        "content": "Điều khoản dịch vụ",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[2]/div/div[1]/p/span/a[1]"
+    },
+    {
+        "content": "Chính sách bảo mật",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[2]/div/div[1]/p/span/a[2]"
+    },
+    {
+        "content": "Đăng nhập bằng email",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[2]/div/div[2]/p"
+    },
+    {
+        "content": "Đăng nhập",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[2]/div/div[2]/form/div[3]/button"
+    },
+    {
+        "content": "Quên mật khẩu?",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[2]/div/div[2]/form/p/a"
+    },
+    {
+        "content": "Tôi đồng ý với  và  của TopCV",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[3]/div[2]/form/p/span"
+    },
+    {
+        "content": "Điều khoản dịch vụ",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[3]/div[2]/form/p/span/a[1]"
+    },
+    {
+        "content": "Chính sách bảo mật",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[3]/div[2]/form/p/span/a[2]"
+    },
+    {
+        "content": "Đăng ký",
+        "label": "",
+        "xpath": "/html/body/div[4]/div/div/div/div/div/div[3]/div[2]/form/div[3]/button"
+    },
+    {
+        "content": "Xác nhận",
+        "label": "",
+        "xpath": "/html/body/div[5]/div/div/div[1]/h4"
+    },
+    {
+        "content": "Quay lại",
+        "label": "",
+        "xpath": "/html/body/div[5]/div/div/div[3]/button[1]"
+    },
+    {
+        "content": "Tiếp tục",
+        "label": "",
+        "xpath": "/html/body/div[5]/div/div/div[3]/button[2]"
+    },
+    {
+        "content": "Lỗi",
+        "label": "",
+        "xpath": "/html/body/div[6]/div/div/div[1]/h4"
+    },
+    {
+        "content": "Đóng",
+        "label": "",
+        "xpath": "/html/body/div[6]/div/div/div[3]/button"
+    },
+    {
+        "content": "Thành công",
+        "label": "",
+        "xpath": "/html/body/div[7]/div/div/div[1]/h4"
+    },
+    {
+        "content": "Đóng",
+        "label": "",
+        "xpath": "/html/body/div[7]/div/div/div[3]/button"
+    },
+    {
+        "content": "IS_LOGGED_IN = false;",
+        "label": "",
+        "xpath": "/html/body/script[5]"
+    },
+    {
+        "content": "Vue.http.headers.common['X-CSRF-TOKEN'] = $('meta[name=\"csrf-token\"]').attr('content');",
+        "label": "",
+        "xpath": "/html/body/script[14]"
+    }
+]

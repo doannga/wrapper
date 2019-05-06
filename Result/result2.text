@@ -1,0 +1,26 @@
+[
+    [
+        "4.0",
+        "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[8]/div/span"
+    ],
+    [
+        "6.0",
+        "/html/body/div[3]/div[1]/div[4]/div[3]/div/div[1]/div[5]/span/a/text()"
+    ],
+    [
+        "7.0",
+        "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[3]/div/text()"
+    ],
+    [
+        "9.0",
+        "/html/body/div[3]/div[1]/div[4]/div[1]/div/div[1]/div[2]/p/text()"
+    ],
+    [
+        "13.0",
+        "/html/body/div[3]/div[1]/div[4]/div[3]/div/div/h5/a/text()"
+    ],
+    [
+        "15.0",
+        "/html/body/div[3]/div[1]/div[4]/div[3]/div/div1/div[4]/span/text()"
+    ]
+]

@@ -30,92 +30,64 @@ def get_json(filePath):
                 })
     # json.dump(data, open('./Result/text1.txt','w', encoding= 'utf-8'), indent = 4)
     return data
-# def testModel(filePath):
-#     #  Read input data
-#     new_data = get_json(filePath)
-#     classifier = pickle.load(open('trained_model/logistic_model.pk','rb'))
 
-#     # tf-idf
-#     vectorizer = pickle.load(open(settings.VECTOR_EMBEDDING,'rb'))
-#     data_features = []
-#     i = 0
-#     result = []
-#     for i in range(len(new_data)):
-#         data_features.append(' '.join(NLP(text=new_data[i].get('content')).get_words_feature()))
-#         features = vectorizer.transform(data_features)
-#         result_label = classifier.predict(features)
-#         xpath = new_data[i].get('xpath')
-#         result.append({
-#             'xpath': xpath,
-#             'label': result_label[i],
-#             'content': new_data[i].get('content')
-#         })
-#     return result
-def isDifferentPosition(array, stringNeedCompare, position, attr):
-	for i in array:
-		if stringNeedCompare != i[attr][position]:
-			return True
-	return False
-
-def getSameString(strings):
-	result = ''
-	if len(strings) > 0:
-		lastPosition = -1
-		firstString = strings[0]
-		for s in strings:
-			if len(s) < len(firstString):
-				firstString = s
-
-		for i in range(len(firstString)):
-			for s in strings:
-				if s[i] != firstString[i] :
-					lastPosition = i
-					break
-		if lastPosition > -1:
-			result = firstString[:lastPosition]
-			result = result.replace('[','')
-	return result
 def combineXpath(list_xpath):
     result = []
     labels = ['0.0', '1.0', '2.0', '3.0', '4.0', '5.0', '6.0', '7.0', '8.0', '9.0', '10.0', '11.0', '12.0', '13.0','14.0', '15.0', '16.0', '17.0', '18.0', '19.0']
     for label in labels:
-        xpaths = []
-        item = 0
-        for item in range(len(list_xpath)):
-            if list_xpath[item][0] == label:
-                index = next((j for j, it in enumerate(xpaths) if it['xpath'] == list_xpath[item][1]), -1)
-                if index == -1:
-                    xpathItems = list_xpath[item][1].split('/')
-                    xpathItems = [x for x in xpathItems if x.strip()]
-                    xpaths.append({
-						'xpath': list_xpath[item][1],
-						'xpathItems': xpathItems
-					})
+        xpaths = [list_xpath[i][1] for i in range(len(list_xpath)) if list_xpath[i][0] == label]
         if len(xpaths) > 1:
-            combineXpath = ''
-            minLength = min([len(i['xpathItems']) for i in xpaths])
-            for i in range(minLength):
-                stringNeedCompare = xpaths[0]['xpathItems'][i]
-                if isDifferentPosition(xpaths, stringNeedCompare, i, 'xpathItems'):
-                    differentPosition =	i
-                    break
-            if differentPosition != -1:
-                for i in range(differentPosition):
-                    combineXpath = combineXpath + '/' + xpaths[0]['xpathItems'][i]
-                lastStrings = []
-                if differentPosition < minLength:
-                    for xpath in xpaths:
-                        lastStrings.append(xpath['xpathItems'][differentPosition])
-                    sameString = getSameString(lastStrings)
-                    if sameString != '':
-                        combineXpath = combineXpath + '/' + sameString
-            result.append([label,combineXpath])
-        if len(xpaths) == 1:
-            result.append([label, xpaths[0]['xpath']])
-
+            xpathMerge = ''
+            xpathArray = []
+            for xpath in xpaths:
+                xpathArray.append([x for x in str(xpath).split('/') if x.strip()])
+            xpathMerge = mergeXpaths(xpathArray)
+            result.append([label, xpathMerge])
+        elif len(xpaths) ==1:
+            result.append([label, xpaths[0]])
     return result
-
-
+def mergeXpaths(xpathArray):
+    result = ''
+    while len(xpathArray) > 0:
+        tags = [i[0] for i in xpathArray if len(i) > 0]
+        if len(tags) <= 1:
+            break
+        if len(tags) > 1:
+            tagMostAppear = getMostAppear(tags)
+            numberAppear = tags.count(tagMostAppear)
+            if numberAppear > 1:
+                xpathArray = [i for i in xpathArray if len(i) > 0 and i[0] == tagMostAppear]
+                for x in xpathArray:
+                    x.remove(tagMostAppear)
+                result = result + '/' + tagMostAppear
+            else:
+                for x in xpathArray:
+                    x.pop(0)
+                stringCompare = compareStrings(tags)
+                if stringCompare != '':
+                    result = result + '/' + compareStrings(tags)
+    return result
+def compareStrings(strings):
+    result = ''
+    if len(strings) <= 1:
+        return result
+    minLength = min([len(i) for i in strings])
+    if minLength == 0:
+        return result
+    while len(strings) > 0:
+        characters = [c[0] for c in strings if len(c) > 0]
+        characterMostAppear = getMostAppear(characters)
+        numberAppear = characters.count(characterMostAppear)
+        if numberAppear <= 1:
+            break
+        strings = [i for i in strings if len(i) > 0 and i[0] == characterMostAppear]
+        strings = [i[1:] for i in strings]
+        result = result + characterMostAppear
+    result = result.replace('[','')
+    return result
+def getMostAppear(strings):
+    result = max(strings, key = strings.count)
+    return result
 def wrapper( list_xpath_content, list_mismath_attribute):
 
     classifier = pickle.load(open('trained_model/logistic_model.pk','rb'))
@@ -133,7 +105,7 @@ def wrapper( list_xpath_content, list_mismath_attribute):
         result_label = classifier.predict(features)
         # print(result_label)
         index_label = enumerate(result_label)
-        xpath = list_xpath_content[i][0]
+        xpath = list_xpath_content[i][0] + '/text()'
         # print(xpath)
         if result_label[j] in list_mismath_attribute:
             result1.append([result_label[j],xpath])
@@ -144,12 +116,12 @@ def wrapper( list_xpath_content, list_mismath_attribute):
 
 if __name__ == '__main__':
     list_xpath_content = []
-    with open('./dataTest.json') as f:
+    with open('./DataTest/xpath_content1.json') as f:
         data = json.load(f)
     for item in data:
         list_xpath_content.append([item['xpath'], item['content']])
-    list_mismath_attribute = ['5.0','8.0']
+    list_mismath_attribute = ['4.0','5.0','6.0','13.0','7.0', '9.0', '16.0','17.0','15.0','14.0']
     result = wrapper(list_xpath_content,list_mismath_attribute)
     print(result)
-    with open('Result/result1.text',encoding = 'utf-8', mode = 'w') as f:
+    with open('Result/result2.text',encoding = 'utf-8', mode = 'w') as f:
         json.dump(result, f,indent = 4, ensure_ascii=False)
